@@ -1,0 +1,146 @@
+{
+    "designer/acrylicpaint.metainfo": [
+        "AcrylicPaintMaterial.qml"
+    ],
+    "designer/brick.metainfo": [
+        "BrickMaterial.qml"
+    ],
+    "designer/ceramic.metainfo": [
+        "CeramicMaterial.qml"
+    ],
+    "designer/fabric.metainfo": [
+        "FabricMaterial.qml"
+    ],
+    "designer/glass.metainfo": [
+        "GlassMaterial.qml"
+    ],
+    "designer/images/material.png": [
+        "BrickMaterial.qml",
+        "MirrorMaterial.qml",
+        "FabricMaterial.qml",
+        "AcrylicPaintMaterial.qml",
+        "PlasticMatteMaterial.qml",
+        "LeatherMaterial.qml",
+        "GlassMaterial.qml",
+        "CeramicMaterial.qml",
+        "StoneMaterial.qml",
+        "WoodParquetMaterial.qml"
+    ],
+    "designer/images/material16.png": [
+        "BrickMaterial.qml",
+        "MirrorMaterial.qml",
+        "FabricMaterial.qml",
+        "AcrylicPaintMaterial.qml",
+        "PlasticMatteMaterial.qml",
+        "LeatherMaterial.qml",
+        "GlassMaterial.qml",
+        "CeramicMaterial.qml",
+        "StoneMaterial.qml",
+        "WoodParquetMaterial.qml"
+    ],
+    "designer/images/material@2x.png": [
+        "BrickMaterial.qml",
+        "MirrorMaterial.qml",
+        "FabricMaterial.qml",
+        "AcrylicPaintMaterial.qml",
+        "PlasticMatteMaterial.qml",
+        "LeatherMaterial.qml",
+        "GlassMaterial.qml",
+        "CeramicMaterial.qml",
+        "StoneMaterial.qml",
+        "WoodParquetMaterial.qml"
+    ],
+    "designer/leather.metainfo": [
+        "LeatherMaterial.qml"
+    ],
+    "designer/mirror.metainfo": [
+        "MirrorMaterial.qml"
+    ],
+    "designer/plasticmatte.metainfo": [
+        "PlasticMatteMaterial.qml"
+    ],
+    "designer/stone.metainfo": [
+        "StoneMaterial.qml"
+    ],
+    "designer/woodparquet.metainfo": [
+        "WoodParquetMaterial.qml"
+    ],
+    "images/Bricks026_2K_AmbientOcclusion.png": [
+        "BrickMaterial.qml"
+    ],
+    "images/Bricks026_2K_Color.png": [
+        "BrickMaterial.qml"
+    ],
+    "images/Bricks026_2K_NormalGL.png": [
+        "BrickMaterial.qml"
+    ],
+    "images/Bricks026_2K_Roughness.png": [
+        "BrickMaterial.qml"
+    ],
+    "images/Concrete032_2K_NormalGL.png": [
+        "CeramicMaterial.qml"
+    ],
+    "images/Concrete032_2K_Roughness.png": [
+        "CeramicMaterial.qml"
+    ],
+    "images/Fabric031_2K_Displacement.png": [
+        "FabricMaterial.qml"
+    ],
+    "images/Fabric031_2K_NormalGL.png": [
+        "FabricMaterial.qml"
+    ],
+    "images/Fabric031_2K_Roughness.png": [
+        "FabricMaterial.qml"
+    ],
+    "images/Leather037_2K_Color.png": [
+        "LeatherMaterial.qml"
+    ],
+    "images/Leather037_2K_NormalGL.png": [
+        "LeatherMaterial.qml"
+    ],
+    "images/Leather037_2K_Roughness.png": [
+        "LeatherMaterial.qml"
+    ],
+    "images/Paint006_2K_AmbientOcclusion.png": [
+        "AcrylicPaintMaterial.qml"
+    ],
+    "images/Paint006_2K_NormalGL.png": [
+        "AcrylicPaintMaterial.qml"
+    ],
+    "images/Paint006_2K_Roughness.png": [
+        "AcrylicPaintMaterial.qml"
+    ],
+    "images/Rock023_2K_AmbientOcclusion.png": [
+        "StoneMaterial.qml"
+    ],
+    "images/Rock023_2K_Color.png": [
+        "StoneMaterial.qml"
+    ],
+    "images/Rock023_2K_NormalGL.png": [
+        "StoneMaterial.qml"
+    ],
+    "images/Rock023_2K_Roughness.png": [
+        "StoneMaterial.qml"
+    ],
+    "images/WoodFloor054_2K_AmbientOcclusion.png": [
+        "WoodParquetMaterial.qml"
+    ],
+    "images/WoodFloor054_2K_Color.png": [
+        "WoodParquetMaterial.qml"
+    ],
+    "images/WoodFloor054_2K_NormalGL.png": [
+        "WoodParquetMaterial.qml"
+    ],
+    "images/WoodFloor054_2K_Roughness.png": [
+        "WoodParquetMaterial.qml"
+    ],
+    "images/blurrynoise.tga": [
+        "CeramicMaterial.qml"
+    ],
+    "shaders/glass.frag": [
+        "GlassMaterial.qml"
+    ],
+    "shaders/glass.vert": [
+        "GlassMaterial.qml"
+    ]
+}

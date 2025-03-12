@@ -1,0 +1,11 @@
+module Generated.Bundles.Materials
+BrickMaterial 1.0 BrickMaterial.qml
+MirrorMaterial 1.0 MirrorMaterial.qml
+FabricMaterial 1.0 FabricMaterial.qml
+AcrylicPaintMaterial 1.0 AcrylicPaintMaterial.qml
+PlasticMatteMaterial 1.0 PlasticMatteMaterial.qml
+LeatherMaterial 1.0 LeatherMaterial.qml
+GlassMaterial 1.0 GlassMaterial.qml
+CeramicMaterial 1.0 CeramicMaterial.qml
+StoneMaterial 1.0 StoneMaterial.qml
+WoodParquetMaterial 1.0 WoodParquetMaterial.qml

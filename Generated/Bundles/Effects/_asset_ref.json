@@ -1,0 +1,23 @@
+{
+    "designer/dust.metainfo": [
+        "DustEffect.qml"
+    ],
+    "designer/images/material.png": [
+        "DustEffect.qml"
+    ],
+    "designer/images/material16.png": [
+        "DustEffect.qml"
+    ],
+    "designer/images/material@2x.png": [
+        "DustEffect.qml"
+    ],
+    "images/dust.png": [
+        "DustEffect.qml"
+    ],
+    "shaders/dustcloud.frag": [
+        "DustEffect.qml"
+    ],
+    "shaders/dustcloud.vert": [
+        "DustEffect.qml"
+    ]
+}
